@@ -4,7 +4,7 @@
 
 ## 一、在Maven中引入Redis依赖
 
-```pom
+```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-data-redis</artifactId>
