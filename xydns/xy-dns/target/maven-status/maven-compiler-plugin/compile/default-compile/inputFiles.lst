@@ -1,0 +1,12 @@
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\namespace\XYDnsNameServiceDescriptor.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\facade\DnsFacade.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\core\DnsCacheEntity.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\check\CheckTask.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\check\MySqlCheckStrategy.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\facade\EtcdDnsFacade.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\facade\PropertiesDnsFacade.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\namespace\XYDnsNameService.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\remote\DnsRemoteParser.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\check\strategy\CheckStrategy.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\check\strategy\FailbackStrategy.java
+F:\xydns\xy-dns\src\main\java\cn\taqu\dns\core\DnsCacheManager.java

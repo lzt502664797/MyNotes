@@ -1,0 +1,8 @@
+etcd:
+  url: http://10.10.60.229:2479
+
+#  #sso server base url
+
+#  #sso manager system api url
+#  ms:
+#    api: http://10.10.60.228:8086/tq-ssoms/api

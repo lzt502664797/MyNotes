@@ -1,0 +1,9 @@
+dns:
+#  env: properties
+#  value: src/main/resources/test1.properties
+  env: etcd
+  etcd: antispam_v2/dns/
+
+spring:
+  profiles:
+    active: dev
